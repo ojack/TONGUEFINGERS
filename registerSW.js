@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/in-the-generous-rectangle/sw.js', { scope: '/in-the-generous-rectangle/' })})}
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/TONGUEFINGERS/sw.js', { scope: '/TONGUEFINGERS/' })})}
